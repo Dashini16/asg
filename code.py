@@ -456,7 +456,7 @@ import subprocess
 import os
 
 # Set your GitHub username and repository name
-github_username = "Dashini16"
+github_username = "Dashini16" #please enter your github username
 repository_name = "Test"
 repository_url = f"https://github.com/{github_username}/{repository_name}.git"
 
