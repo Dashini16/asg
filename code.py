@@ -457,7 +457,7 @@ import os
 
 # Set your GitHub username and repository name
 github_username = "Dashini16" #please enter your github username
-repository_name = "Test"
+repository_name = "test"
 repository_url = f"https://github.com/{github_username}/{repository_name}.git"
 
 # Set the directory where you want to initialize the repository
