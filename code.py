@@ -15,7 +15,9 @@ from bokeh.io import output_notebook
 from bokeh.models import ColumnDataSource
 import subprocess
 import os
-
+'''
+SECTION 1.2
+'''
 # Suppressing warnings
 warnings.filterwarnings("ignore", category=UserWarning)
 
@@ -452,16 +454,16 @@ if __name__ == "__main__":
 
 
 
-import subprocess
-import os
-
+'''
+SECTION 1.3
+'''
 # Set your GitHub username and repository name
-github_username = "Dashini16" #please enter your github username
-repository_name = "test"
+github_username = "Dashini" #please enter your github username
+repository_name = "asg"#please enter your repo name in github
 repository_url = f"https://github.com/{github_username}/{repository_name}.git"
 
 # Set the directory where you want to initialize the repository
-repository_directory = "C:\\Users\\Dashini\\Downloads\\Python Assignment-2\\Python Assignment\\Python Assignment\\Task 2 Assignment"
+repository_directory = "C:\\Users\\Dashini\\Downloads\\Python Assignment-2\\Python Assignment\\Python Assignment\\Task 2 Assignment" #Refer to this to amend the directory on your local machine
 
 # Change to the repository directory
 os.chdir(repository_directory)
