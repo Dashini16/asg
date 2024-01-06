@@ -487,5 +487,5 @@ result_push = subprocess.run(["git", "push", "-u", "origin", "develop"])
 print("Result of pushing changes:", result_push)
 
 # Print a message indicating success
-print("Changes pushed successfully.")
+print("Changes pushed successfully!")
 
