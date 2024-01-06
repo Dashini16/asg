@@ -458,7 +458,7 @@ if __name__ == "__main__":
 SECTION 1.3
 '''
 # Set your GitHub username and repository name
-github_username = "Dashini" #please enter your github username
+github_username = "Dashini16" #please enter your github username
 repository_name = "asg"#please enter your repo name in github
 repository_url = f"https://github.com/{github_username}/{repository_name}.git"
 
